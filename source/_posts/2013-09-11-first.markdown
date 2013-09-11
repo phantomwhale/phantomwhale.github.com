@@ -1,0 +1,12 @@
+---
+layout: post
+title: "First!"
+date: 2013-09-11 13:50
+comments: true
+categories: [General]
+---
+First post ! 
+
+Welcome to the Lair of the phantom whale, a stupidly named blog to give me a central point to post technical discoveries, tips and also play with Octopress, a blogging framework for hackers, partly picked due to my inner hacker, but also partly as it's name blended nicely with this whole aquatic schtick that I'm trying out here.
+
+It's good to have a theme.
