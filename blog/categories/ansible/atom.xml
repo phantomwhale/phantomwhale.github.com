@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Lair of the p-whale]]></title>
-  <link href="http://phantomwhale.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Ansible | Lair of the p-whale]]></title>
+  <link href="http://phantomwhale.github.io/blog/categories/ansible/atom.xml" rel="self"/>
   <link href="http://phantomwhale.github.io/"/>
   <updated>2013-10-21T17:40:08+11:00</updated>
   <id>http://phantomwhale.github.io/</id>
@@ -27,19 +27,6 @@
 <p>So upcoming I&rsquo;m hoping to post on how we&rsquo;re using Ansible to create our new server, how I&rsquo;ve also been using it on my local machines to get a repeatable development environment installed and there is also a presentation I am working on to introduce the topic to a wider audience.</p>
 
 <p>I&rsquo;ll end this post with a link to an e-book by <a href="http://mattjaynes.com/">Matt Jaynes</a> that I found quite helpful when trying to understand how Ansible fits into the server provisioning &ldquo;space&rdquo; in general. It&rsquo;s called <a href="http://devopsu.com/books/taste-test-puppet-chef-salt-stack-ansible.html">Taste Test</a> and covers using Puppet, Chef, Salt and, of course, Ansible to configure a simple server setup.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First!]]></title>
-    <link href="http://phantomwhale.github.io/blog/2013/09/11/first/"/>
-    <updated>2013-09-11T13:50:00+10:00</updated>
-    <id>http://phantomwhale.github.io/blog/2013/09/11/first</id>
-    <content type="html"><![CDATA[<p>First post !</p>
-
-<p>Welcome to the Lair of the phantom whale, a stupidly named blog to give me a central point to post technical discoveries, tips and also play with Octopress, a blogging framework for hackers, partly picked due to my inner hacker, but also partly as it&rsquo;s name blended nicely with this whole aquatic schtick that I&rsquo;m trying out here.</p>
-
-<p>It&rsquo;s good to have a theme.</p>
 ]]></content>
   </entry>
   
